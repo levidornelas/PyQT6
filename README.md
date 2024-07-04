@@ -1,0 +1,2 @@
+Projetos usando PyQt6, uma biblioteca do python para a criação de interface gráfica. Por enquanto, abstraindo um pouco de recursos visuais, e buscando eficiência. A maioria dos projetos envolvem o treinamento do CRUD diretamente na interface gráfica, conectando a aplicação ao banco de dados.
+Em alguns casos, o sistema utilizado é o 'railway', que possibilita o update em nuvem de um banco, com fins apenas de aprendizado neste caso, outras usam do PostGreSQL, um SGBD robusto e hospedado em minha máquina.
